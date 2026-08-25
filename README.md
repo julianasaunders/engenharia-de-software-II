@@ -1,7 +1,3 @@
-markdown_content = """# 📚 Resumo: Plano de Ensino - Engenharia de Software II (2026) 🚀
-
----
-
 ## 👨‍🏫 1. Quem é o Professor?
 
 **José Antonio Castanho**
