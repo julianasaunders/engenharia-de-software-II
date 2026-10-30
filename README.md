@@ -1,80 +1,55 @@
-## 👨‍🏫 1. Quem é o Professor?
+# 🧾 Engenharia de Software II
 
-**José Antonio Castanho**
-* 🏫 **Docente no Centro Paula Souza** desde 2005 (Ensino Médio e Técnico) .
-* 🎓 **Professor Universitário na Fatec** desde 2013 .
-* 🎓 **Formação:** 
-  * Bacharel em Ciência da Computação 
-  * Pós-graduado em Análise e Desenvolvimento de Sistemas 
-  * Licenciado em Matemática 
+Repositório com as atividades e documentos desenvolvidos na disciplina de **Engenharia de Software II** do terceiro ciclo de **Análise e Desenvolvimento de Sistemas**. O material cobre a passagem da engenharia de requisitos para a prototipação e a modelagem do sistema.
 
----
+## 📚 Conteúdo das aulas
 
-## 🎯 2. Foco e Dinâmica da Disciplina
+| Aula | Assunto | Material |
+|---|---|---|
+| **01 e 02** | Apresentação da disciplina e levantamento de requisitos | [Programa, avaliação e documentos de requisitos](Aula%2001%20e%2002%20%E2%80%94%20Levantamento%20de%20Requisitos/README.md) |
+| **03 e 04** | Prototipação do sistema | [Protótipos do banco e da clínica odontológica](Aula%2003%20e%2004%20%E2%80%94%20Prototipa%C3%A7%C3%A3o/README.md) |
 
-* **Continuação de ESI:** Transição para um foco prático em **diagramas, requisitos e prototipação** .
-* **Aproximação com o Mercado:** Conexão direta com **programação, mercado de trabalho, carreira e novas tecnologias** .
-* 💡 **Interatividade:** Participação ativa em sala de aula é essencial para o rendimento das aulas !
+## 🎓 Sobre a disciplina
 
----
+**Professor:** José Antonio Castanho  
+**Instituição:** Fatec — Faculdade de Tecnologia de Itapetininga
 
-## 🗺️ 3. Tópicos do Conteúdo Programático
+### 🗺️ Conteúdo programático
 
-| Sequência | Tópico |
-| :---: | :--- |
-| 1️⃣ | Revisão Geral  |
-| 2️⃣ | Levantamento de Requisitos  |
-| 3️⃣ | Prototipação do Sistema 01  |
-| 4️⃣ | Diagramas de Casos de Uso  |
-| 5️⃣ | Metodologias Ágeis (SCRUM, XP, etc.)  |
-| 6️⃣ | Programação Orientada a Objetos (POO)  |
-| 7️⃣ | Diagramas de Classes  |
-| 8️⃣ | Outros Diagramas UML  |
-| 9️⃣ | Prototipação do Sistema 02  |
-| 🔟 | Entrega do Projeto Final  |
+1. ✅ Revisão geral
+2. ✅ Levantamento de requisitos
+3. ✅ Prototipação do sistema 01
+4. ✅ Diagramas de casos de uso
+5. ✅ Metodologias ágeis (SCRUM, XP)
+6. ✅ Programação orientada a objetos (POO)
+7. ✅ Diagramas de classes
+8. ✅ Outros diagramas UML
+9. ✅ Prototipação do sistema 02
+10. ✅ Entrega do projeto final
 
----
+### 📊 Avaliação
 
-## 📌 4. Diretrizes dos Trabalhos e Projetos
+| Componente | Peso |
+|---|---|
+| Prova 1 (P1) | 33% |
+| Prova 2 (P2) | 33% |
+| Trabalhos e projetos | 33% |
+| Pontos adicionais | ➕ |
 
-* **Exercícios Contínuos:** Todos os exercícios em sala valem nota e podem ser individuais ou em grupo .
-* 👥 **Manutenção dos Grupos/Temas:** Recomenda-se manter o grupo e o tema do semestre anterior .
-* 🔗 **Impacto no Futuro Acadêmico:**
-  * **Próximo Semestre (Eletiva):** A documentação criada será a base para a programação do sistema .
-  * **Trabalho de Graduação (TG):** Uma documentação bem feita em ESII equivale a cerca de **70% do TG** de sistema (ficando ~30% de novos tópicos) .
-* ⚠️ **Atenção:** Mudar de tema/grupo depois significa refazer toda a documentação !
+A **Prova Substitutiva** substitui a menor nota entre P1 e P2 — não substitui trabalhos e projetos.
 
----
+### 📖 Bibliografia
 
-## 📊 5. Sistema de Avaliação
+- GUEDES, G. T. A. *UML 2: Uma Abordagem Prática*. Novatec.
+- LARMAN, C. *Utilizando UML e Padrões*. Bookman.
+- SILVEIRA, P. et al. *Introdução à Arquitetura e Desenvolvimento de Software*. Campus.
+- BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. *UML: Guia do Usuário*. Campus.
+- PAULA FILHO, W. P. *Engenharia de Software: Fundamentos, Métodos e Padrões*. LTC.
+- DEITEL, H. M.; DEITEL, P. J. *Java: Como Programar*. Pearson.
 
-A nota final é composta de forma equilibrada entre provas e atividades práticas :
+### 🔗 Portais citados
 
-| Componente | Peso na Nota | Detalhes |
-| :--- | :---: | :--- |
-| **Prova 1 (P1)** | **33%** | Avaliação teórica/prática  |
-| **Prova 2 (P2)** | **33%** | Avaliação teórica/prática  |
-| **Trabalhos e Projetos** | **33%** | Entregas e atividades do semestre  |
-| **Pontos Adicionais** | ➕ | Exercícios aplicados em sala de aula  |
-
-> ℹ️ **Prova Substitutiva:** Substitui a menor nota ou ausência em **uma das provas** (P1 ou P2). **Não** substitui a nota de trabalhos/projetos .
-
----
-
-## 📖 6. Bibliografia Recomendada
-
-### 📚 Livros Físicos (Disponíveis na Biblioteca) 
-* **UML 2: Uma Abordagem Prática** — *Gilleanes T. A. Guedes* (Editora Novatec) 
-* **Utilizando UML e Padrões** — *Craig Larman* (Editora Bookman) 
-* **Introdução à Arquitetura e Desenvolvimento de Software** — *Paulo Silveira et al.* (Editora Campus) 
-* **UML: Guia do Usuário** — *Grady Booch et al.* (Editora Campus) 
-* **Engenharia de Software: Fundamentos, Métodos e Padrões** — *Wilson de Pádua Paula Filho* (Editora LTC) 
-* **Java: Como Programar** — *Deitel & Deitel* (Editora Pearson) 
-
-### 🌐 Material Digital & Portais 
-* Slides disponibilizados pelo professor 
-* **DevMedia:** Guias de Modelagem e UML 
-* **Revista Visão Ágil:** Artigos sobre agilidade (`visaoagil.com`) 
-* **Site Martin Fowler:** Artigos sobre arquitetura e engenharia de software 
-* **InfoQ Brasil:** Notícias e tendências de desenvolvimento (`infoq.com/br`) 
-"""
+- [DevMedia](https://www.devmedia.com.br/) — guias de modelagem e UML.
+- [Revista Visão Ágil](https://www.visaoagil.com/) — artigos sobre agilidade.
+- [Martin Fowler](https://martinfowler.com/) — arquitetura e engenharia de software.
+- [InfoQ Brasil](https://www.infoq.com/br/) — notícias e tendências.
